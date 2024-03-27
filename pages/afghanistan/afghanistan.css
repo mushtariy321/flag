@@ -189,6 +189,7 @@ main {
     }
 
     .section2 {
+        padding: 20px;
         flex-direction: column;
     }
 

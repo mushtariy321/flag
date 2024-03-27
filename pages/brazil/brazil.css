@@ -183,6 +183,7 @@ main{
     }
     .section2{
         flex-direction: column;
+        padding: 20px;
     }
     .mk{
         width: 320px;
